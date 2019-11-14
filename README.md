@@ -171,6 +171,11 @@ Courses | Duration | Effort | Prerequisites | Progress
 
 #### Readings
 - **Recommended**: While Hack the Kernel recommends Modern Operating Systems as a textbook, we suggest using [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/).
+- **Recommended**: The networking course is very light on assignments. Here are some supplements.
+  - [Princeton](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1).
+  - [Stanford](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html).
+  - [NPTEL](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf).
+  - [WireShark](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf).
 
 ### Core theory
 
