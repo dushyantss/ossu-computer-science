@@ -250,7 +250,7 @@ Note: **_These courses are provisionally recommended_**. There is an open [Reque
 
 Courses | Duration | Effort | Prerequisites | Progress
 :-- | :--: | :--: | :--: | :--:
-[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | - | -
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | - | In Progress
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | -
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | -
 
