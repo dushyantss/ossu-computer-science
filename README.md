@@ -279,7 +279,10 @@ Courses | Duration | Effort | Prerequisites | Progress
 
 Courses | Duration | Effort | Prerequisites | Progress
 :-- | :--: | :--: | :--: | :--:
-[Relational Database Systems](https://www.coursera.org/learn/relational-database)| 6 weeks | 3 hours/week | - | Done in previous version, course changed and need to look at the differences
+[Relational Database Systems](https://www.coursera.org/learn/relational-database) *Original*| 6 weeks | 3 hours/week | - | Done
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) *Revised*| 2 weeks | 10 hours/week | core programming | In Progress
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) *Revised*| 2 weeks | 10 hours/week | core programming | -
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) *Revised*| 2 weeks | 10 hours/week | core programming | -
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | -
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | -
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
