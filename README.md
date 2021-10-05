@@ -283,6 +283,8 @@ Courses | Duration | Effort | Prerequisites | Progress
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) *Revised*| 2 weeks | 10 hours/week | core programming | In Progress
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) *Revised*| 2 weeks | 10 hours/week | core programming | -
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) *Revised*| 2 weeks | 10 hours/week | core programming | -
+[Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) *Self Added*| 2 weeks | 10 hours/week | core programming | -
+[Databases: OLAP and Recursion](https://www.edx.org/course/olap-and-recursion) *Self Added*| 2 weeks | 10 hours/week | core programming | -
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | -
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | -
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | -
