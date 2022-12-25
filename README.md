@@ -16,7 +16,7 @@
 This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honour policies are broken.
 
 # Updates
-OSSU has changed the curriculum's order and courses. They have replaced the Linear Algebra course(which I disliked because it did not teach the concepts of linear algebra, rather all it taught was using their code generator to write fast matrix calculations) and ops-class.org course(which I liked because of how tough it was, but I can understand that it was very out of place in this program. They have also changed the order of various courses and introduced/removed a few other.
+OSSU has changed the curriculum's order and courses. They have replaced the Linear Algebra course(which I disliked because it did not teach the concepts of linear algebra, rather all it taught was using their code generator to write fast matrix calculations) and ops-class.org course(which I liked because of how tough it was, but I can understand that it was very out of place in this program). They have also changed the order of various courses and introduced/removed a few other.
 
 Thus, I am updating this file to become up to date with the latest course from OSSU.
 
