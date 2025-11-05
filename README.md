@@ -17,9 +17,10 @@
 This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honour policies are broken. This will be I guess the 4th time I am revising all these courses and progress will start from scratch.
 
 # Updates
-OSSU has changed the curriculum's order and courses. They have replaced the Linear Algebra course(which I disliked because it did not teach the concepts of linear algebra, rather all it taught was using their code generator to write fast matrix calculations) and ops-class.org course(which I liked because of how tough it was, but I can understand that it was very out of place in this program). They have also changed the order of various courses and introduced/removed a few other.
 
-Thus, I am updating this file to become up to date with the latest course from OSSU.
+**Latest Update (2025-11-05):** Synced with the latest OSSU curriculum. The main change is in Core Programming where the three-part "Programming Languages" Coursera series (Parts A, B, C) has been consolidated into a single "Programming Languages" course from the University of Washington. All other courses remain unchanged.
+
+**Previous Updates:** OSSU previously changed the curriculum's order and courses, replacing the Linear Algebra course (which I disliked because it did not teach the concepts of linear algebra, rather all it taught was using their code generator to write fast matrix calculations) and ops-class.org course (which I liked because of how tough it was, but I can understand that it was very out of place in this program). They also changed the order of various courses and introduced/removed a few others.
 
 # Contents
 
@@ -158,9 +159,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Progress
 :-- | :--: | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | Skimmed
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | Skimmed
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) | Started
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9) | -
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA) | -
+[Programming Languages](https://courses.cs.washington.edu/courses/cse341/19au/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | Started
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | -
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | -
 
