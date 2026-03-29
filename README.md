@@ -18,7 +18,9 @@ This repository tracks my progress through the [OSSU Computer Science curriculum
 
 # Updates
 
-**Latest Update (2026-03-04):** Synced with the latest OSSU curriculum. Key changes: Core Theory now uses 2 edX Stanford "Algorithms: Design and Analysis" courses instead of the 4 Coursera algorithm courses; Machine Learning URL updated to deeplearning.ai; Modern Robotics link updated; various minor fixes (typos, URLs).
+**Latest Update (2026-03-29):** Synced with latest OSSU curriculum. Key changes: new Class-based Program Design coursepage with detailed lecture/lab/assignment schedule; FAQ updated to reflect Coursera removing audit access in July 2025; new book added to readings (Code by Petzold).
+
+**Previous Update (2026-03-04):** Core Theory now uses 2 edX Stanford "Algorithms: Design and Analysis" courses instead of the 4 Coursera algorithm courses; Machine Learning URL updated to deeplearning.ai; Modern Robotics link updated; various minor fixes (typos, URLs).
 
 **Previous Updates:** OSSU previously changed the curriculum's order and courses, replacing the Linear Algebra course (which I disliked because it did not teach the concepts of linear algebra, rather all it taught was using their code generator to write fast matrix calculations) and ops-class.org course (which I liked because of how tough it was, but I can understand that it was very out of place in this program). They also changed the order of various courses and introduced/removed a few others.
 
@@ -158,7 +160,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 Courses | Duration | Effort | Prerequisites | Discussion | Progress
 :-- | :--: | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | Skimmed
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | Skimmed
+[Class-based Program Design](coursepages/class-based/README.md) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | Skimmed
 [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN) | Started
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | -
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | -
